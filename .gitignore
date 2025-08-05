@@ -1,0 +1,6 @@
+MarvlCoralScapes/coralscapes.egg-info
+**/__pycache__/
+MarvlCoralScapes/metrics.txt
+MarvlCoralScapes/model_checkpoints
+MarvlCoralScapes/wandb
+MarvlCoralScapes/results
