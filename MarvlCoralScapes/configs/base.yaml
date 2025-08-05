@@ -1,0 +1,13 @@
+run_name: "base"
+
+logger:
+  wandb_project: "coralscapes"
+  log_epochs: 1
+
+data:
+  # root: "/home/yuxiang/data/murky_coral_dataset/Coral_data_v8mask-semantic_Recreate_noseafloor"
+  root: "/home/yuxiang/data/murky_coral_dataset/Coral_data_v8mask-semantic_Recreate"
+  # root: "/home/yuxiang/data/coralscapes"
+  batch_size: 1
+  batch_size_eval: 1
+  weight: False
